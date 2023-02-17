@@ -48,8 +48,8 @@ The basic structure of the html should look something like this
         </div>
       </div>
       <div class="bottom">
-        <a href="https://github.com/SlumberDemon/deta-faqs">Source</a> /
-        <a href="https://github.com/SlumberDemon/deta-faqs/{{ page }}">Edit</a>
+        <a href="https://github.com/SlumberDemon/faqs">Source</a> /
+        <a href="https://github.com/SlumberDemon/faqs/{{ page }}">Edit</a>
       </div>
     </div>
   </body>
