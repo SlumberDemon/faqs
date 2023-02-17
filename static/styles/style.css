@@ -16,6 +16,13 @@
     --grey-soft: #BDB7B2;
     --orange: #FAB20A;
     --blue: #0885C2;
+
+    /* Palette */
+
+    --palette-1: #e0e5de;
+    --palette-2: #a8ade5;
+    --palette-3: #7776dc;
+    --palette-4: #5648dd;
 }
 
 
@@ -25,22 +32,22 @@ body {
 }
 
 a:link {
-    color: var(--pink-dark);
+    color: var(--palette-4);
     text-decoration: underline;
     cursor: ne-resize;
 }
 
 a:visited {
-    color: var(--pink-dark);
+    color: var(--palette-4);
     text-decoration: underline;
 }
 
 a:active {
-    color: var(--pink-dark);
+    color: var(--palette-4);
 } 
   
 a:hover {
-    color: var(--pink-dark);
+    color: var(--palette-4);
 }
 
 .container {

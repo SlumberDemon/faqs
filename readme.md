@@ -25,7 +25,7 @@ The basic structure of the html should look something like this
     <meta name="url" content="https://faq.deta.dev/{{ page }}" />
     <meta property="og:title" content="FAQ TITLE HERE" />
     <meta property="og:type" content="website" />
-    <meta name="theme-color" content="#F73A95" />
+    <meta name="theme-color" content="#5648dd" />
   </head>
 
   <body>
