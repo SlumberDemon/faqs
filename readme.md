@@ -22,7 +22,7 @@ The basic structure of the html should look something like this
 
     <meta property="og:image" content="/static/images/icon.png" />
     <meta property="og:description" content="Read more..." />
-    <meta name="url" content="https://faq.deta.dev/" />
+    <meta name="url" content="https://faq.deta.dev/{{ page }}" />
     <meta property="og:title" content="FAQ TITLE HERE" />
     <meta property="og:type" content="website" />
     <meta name="theme-color" content="#F73A95" />
