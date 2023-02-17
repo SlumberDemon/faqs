@@ -61,3 +61,7 @@ You can use the `content-text` for a new paragraph on the page. If you want to u
 ```html
 <a href="https://linktopagehere">text</a>
 ```
+
+## Disclaimer
+
+> This website is not affiliated with deta
