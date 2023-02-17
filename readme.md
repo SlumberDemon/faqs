@@ -31,7 +31,8 @@ The basic structure of the html should look something like this
   <body>
     <div class="container">
       <div class="title">
-        <a href="/" style="text-decoration: none;">←</a> FAQ TITLE HERE bot?
+        <a href="/" style="text-decoration: none; cursor: w-resize;">←</a> FAQ
+        TITLE HERE bot?
       </div>
       <div class="content">
         <div class="content-text">
